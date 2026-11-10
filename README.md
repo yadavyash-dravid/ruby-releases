@@ -16,12 +16,9 @@ Find the newest files under **Releases** on this page. Not sure which Mac you ha
 
 **Needs:** macOS 12 (Monterey) or newer, or Windows 10/11 64-bit. About 400 MB free space plus room for your books.
 
-## First launch: the warning is expected
+## Installing
 
-Ruby is from a small company and is not signed with the big companies' paid certificates yet, so your computer warns you the first time. **Step-by-step pictures and instructions: `INSTALL-GUIDE.md`.** In short:
-
-- **Mac:** open Ruby, click Done on the warning, then **System Settings → Privacy & Security → Open Anyway**.
-- **Windows:** on the blue "Windows protected your PC" box, click **More info → Run anyway**.
+Step by step: **`INSTALL-GUIDE.md`** (attached to each release).
 
 ## Check your download (optional, takes a minute)
 
@@ -34,10 +31,10 @@ If the long code does not match the one in the release, do not install it, and t
 
 ## You need a licence
 
-After installing, open Ruby → **Plugins** → **Install licence file…** and choose the `.erplic` file we sent you. To ask for a free 14-day trial, contact us.
+After installing, open Ruby → **Plugins** → **Install licence file…** and choose the `.erplic` file we sent you. To ask for a free 14-day trial, or to add features to your licence, contact us.
 
 ## Help
 
-**Contact us through [thesuperintelligence.school](https://www.thesuperintelligence.school)** with your Licence ID and a photo of any message you see.
+**Call or WhatsApp 9996893881**, or contact us through **[thesuperintelligence.school](https://www.thesuperintelligence.school)**, with your Licence ID and a photo of any message you see.
 
 Terms, privacy and refund policy: on the same website.
